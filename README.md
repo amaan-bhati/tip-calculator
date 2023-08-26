@@ -67,7 +67,6 @@ JavaScript Logic
 The JavaScript code in this project handles the calculation of the tip amount and the total bill. When the user enters the bill amount and selects a tip percentage, the following logic is applied:
 
 javascript
-Copy code
 // Get references to HTML elements
 const billInput = document.getElementById('bill');
 const tipSelect = document.getElementById('tip');
@@ -89,5 +88,8 @@ function calculateTip() {
   tipAmountElement.textContent = `$${tipAmount.toFixed(2)}`;
   totalAmountElement.textContent = `$${totalAmount.toFixed(2)}`;
 }
+
+
+
 Responsive Design
 The Tip Calculator is designed to be responsive on all media screens. This is achieved through the use of CSS media queries that adapt the layout and styling based on the screen size. The CSS code includes rules for different screen widths, ensuring that the calculator remains usable and visually appealing across various devices.
