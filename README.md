@@ -4,6 +4,7 @@ Tip calculator using html , css and javascript.
 
 
 ![Screenshot 2023-08-26 232947](https://github.com/amaan-bhati/tip-calculator/assets/94218318/05594f5a-a33f-4859-ba4e-67df191a510a)
+
 The Tip Calculator is a simple web application that allows users to calculate the appropriate tip amount for a bill. It is built using HTML, CSS, and JavaScript, providing an easy-to-use interface for calculating tips quickly and accurately.
 
 Features
@@ -11,8 +12,7 @@ Input field for entering the total bill amount.
 Option to select the desired tip percentage (e.g., 10%, 15%, 20%).
 Instant calculation of the tip amount and the total bill including the tip.
 User-friendly interface with responsive design for various screen sizes.
-Getting Started
-These instructions will help you set up a copy of the Tip Calculator project on your local machine.
+
 
 Prerequisites
 To run the Tip Calculator, you need a modern web browser that supports HTML5, CSS3, and JavaScript.
